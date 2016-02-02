@@ -1,0 +1,11 @@
+body { margin-top:20px; }
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 0; }
+.pl-ziro { padding-left: 0px; }
+
+.centered {
+  position: fixed;
+  margin-top:100px;
+  left: 45%;
+  margin-left: -100px;
+}
