@@ -1,4 +1,4 @@
-Omise TMNClient
+Spring-MVC-Omise-Client
 ===============================
 Template for Spring 4 MVC + JSP view + Annotation configuration, using Gradle build tool.
 
